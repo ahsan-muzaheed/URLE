@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background: #000;
+}
+
+ul{padding: 0; margin: 0;}
+li{list-style: none;}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* =====header section css start here===== */
+.header__section{
+    background: #343434;
+}
+
+.logo a{
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.header__inner ul li a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+/* =====header section css start here===== */
+
+
+/* =====product section css start here===== */
+.boxes{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+ .boxes a.box{
+    width: 100%;
+    max-width: 300px;
+}
+
+.boxes a.box img{
+    width: 100%;
+}
+
+.pTitle h2 {
+    font-size: 26px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.boxes a.box{
+    color: #fff;
+    padding: 8px;
+    background: #333;
+}
+
+.boxes a.box h5 {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.boxes a.box p {
+    font-size: 14px;
+    color: #ffb900;
+    line-height: 30px;
+}
+
+.boxes a.box  .price__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxes a.box .price__wrap span.offer {
+    font-size: 15px;
+    padding: 3px 10px;
+    background: #297d29;
+    font-weight: 500;
+}
+
+.boxes a.box .price__wrap span.price {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.box__content{
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #acacac;
+}
+/* =====product section css start here===== */
