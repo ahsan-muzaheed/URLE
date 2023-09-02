@@ -23,6 +23,9 @@ a{
 /* =====header section css start here===== */
 .header__section{
     background: #343434;
+
+    position: sticky;
+    top: 0;
 }
 
 .logo a{
@@ -40,6 +43,10 @@ a{
 
 
 /* =====product section css start here===== */
+.product__section{
+    margin-top: 20px;
+}
+
 .boxes{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -48,7 +55,7 @@ a{
 
  .boxes a.box{
     width: 100%;
-    max-width: 300px;
+    max-width: 345px;
 }
 
 .boxes a.box img{
@@ -101,5 +108,23 @@ a{
     margin-bottom: 7px;
     padding-bottom: 7px;
     border-bottom: 1px solid #acacac;
+}
+
+@media screen and (max-width: 1439px) {
+    .boxes{
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .boxes{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .boxes{
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 /* =====product section css start here===== */
