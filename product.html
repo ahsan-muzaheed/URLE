@@ -18,10 +18,10 @@
         <div class="container">
             <div class="header__inner py-3 d-flex justify-content-between align-items-center">
                 <div class="logo">
-                    <a href="#!">E3DS</a>
+                    <a href="index.html">E3DS</a>
                 </div>
                 <ul class="d-flex gap-5">
-                    <li><a href="#!">HOME</a></li>
+                    <li><a href="index.html">HOME</a></li>
                     <li><a href="#!">ABOUT</a></li>
                     <li><a href="#!">CONTACT</a></li>
                 </ul>
@@ -35,7 +35,7 @@
         <div class="container">
             <div class="product__desc__inn">
                 <div class="row">
-                    <div class="col-md-7">
+                    <div class="col-xl-7">
                         <div class="product__slide">
                             <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper productSlider2">
                                 <div class="swiper-wrapper wrapper2">
@@ -44,15 +44,15 @@
                                 <div class="swiper-button-next"></div>
                                 <div class="swiper-button-prev"></div>
                             </div>
-                            <div thumbsSlider="" class="swiper productSlider">
+                            <div thumbsSlider="" class="swiper productSlider pb-0">
                                 <div class="swiper-wrapper wrapper1">
                                     
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-5">
-                        <div>
+                    <div class="col-xl-5">
+                        <div class="d-flex flex-column justify-content-xl-between h-100 gap-3 gap-xl-0 ">
                             <div class="product__infos">
                                 <h3 class="product__title"></h3>
     
@@ -61,7 +61,7 @@
                                     <span class="issue__date"> </span>
                                 </div>
     
-                                <div class="ratings">
+                                <div class="ratings ">
                                     <span class="rate"></span>
                                     <span class="rate__num"></span>
                                     <span class="rate__read"></span>
@@ -70,17 +70,18 @@
                                     
                                 </p>
                             </div>
-                            <div class="acquire__container">
-                                <div class="acquire__left">
+                            <div class="acquire__container d-flex align-items-center">
+                                <div class="acquire__left w-100 text-center">
+                                    <button id="cartBtn"></button>
+                                </div>
+                                <div class="acquire__right w-100 d-flex flex-column gap-1">
                                     <p class="supportTitle"></p>
-                                    <p class="supportPlatform"></p>
+                                    <p class="supportPlatform d-flex gap-2"></p>
                                     <p class="supportVtitle"></p>
                                     <p class="supportVersion"></p>
                                     <p class="downloadTitle"></p>
-                                    <p class="downloadType"></p>
-
+                                    <a href="#!" class="downloadType"></a>
                                 </div>
-                                <div class="acquire__right"></div>
                             </div>
                         </div>
                     </div>
@@ -88,16 +89,22 @@
             </div>
         </div>
     </div>
+    <div class="product__cart">
+                    
+    </div>
 
-    <div id="product-details">
+    <div class="cart">
 
     </div>
+
+    <!-- <div id="product-details">
+
+    </div> -->
     <!-- product desc -->
 
 
 
     <a href="index.html">Back to home</a>
-    
 
 
     
