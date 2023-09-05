@@ -29,6 +29,448 @@ const Data = [
         questAnswered: '| 5 of 6 Question Answered',
         cart: 'Add To Cart',
         pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 2,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 2',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 3,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 3',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 4,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 4',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 5,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 5',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 6,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 6',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 7,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 7',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 8,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 8',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 9,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 9',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
+
+        sliderImgs: [
+            {
+                slideImg: 'images/Coral1.jpg',
+            },
+            {
+                slideImg: 'images/Coral2.jpg',
+            },
+            {
+                slideImg: 'images/Coral3.avif',
+            },
+            {
+                slideImg: 'images/Coral4.webp',
+            },
+            {
+                slideImg: 'images/Coral5.jpg'
+            },
+        ]
+    },
+    {
+        id: 10,
+        imageSrc: 'images/img1.webp',
+        title: 'Product 10',
+        subTitle: 'AD Gaming',
+        link: 'product.html?id=1',
+        offer: '50% OFF',
+        price: '$12.44',
+        category: 'Character',
+        desc : 'Here you can find a lot of coral models, at all it is around 79 units.',
+
+        supportTitle: 'Supported Platform',
+        supportPlatform: '<i class="fa-brands fa-windows"></i>' + 
+            '<i class="fa-brands fa-apple"></i>' + 
+            '<i class="fa-solid fa-laptop"></i>',
+        supportVtitle: 'Supported Engine Versions',
+        supportVersion: '4.23 - 4.27, 5.0 - 5.2',
+        downloadTitle: 'Download Type',
+        downloadType: 'Asset Pack',
+
+        issueTitle: 'Issue Date: ',
+        issueDate: '1st September 2023',
+        rate: '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>' + '<i class="fa-solid fa-star"></i>' + 
+            '<i class="fa-solid fa-star"></i>',
+        numberReview: '23 Reviews Written',
+        questAnswered: '| 5 of 6 Question Answered',
+        cart: 'Add To Cart',
+        pCart: '<i class="fa-solid fa-cart-shopping"></i>',
+        xMark: '<i class="fa-solid fa-xmark"></i>',
 
         sliderImgs: [
             {
@@ -189,16 +631,39 @@ function displayProductDetails() {
 
         
         const cartBtn = document.getElementById('cartBtn')
+
         cartBtn.addEventListener('click', ()=>{
             const cartHere = document.querySelector('.cart')
-            const cartT = document.createElement('h2')
+            cartHere.classList.add('d-block')
+            cartHere.classList.remove('d-none')
+            // const cartT = document.createElement('h2')
+            // cartT.textContent = selectedProduct.title
+            // cartHere.appendChild(cartT)
+
+            const product__img = document.querySelector('.product__img')
+            product__img.src = selectedProduct.imageSrc
+
+            const cartT = document.querySelector('.cartT')
             cartT.textContent = selectedProduct.title
-            cartHere.appendChild(cartT)
+            const cartP = document.querySelector('.cartP')
+            cartP.textContent = selectedProduct.price
 
             const createToast = document.createElement('div')
+            const combinedToast = 'Product Added On Cart' //+ '    ' + selectedProduct.xMark
             createToast.classList.add('createToast')
-            createToast.textContent = 'Toast here'
+            createToast.innerHTML = combinedToast
+
             cartHere.appendChild(createToast)
+
+            createToast.style.display = 'block';
+
+            // createToast.addEventListener('click', ()=>{
+            //     createToast.classList.add('d-none')
+            // })
+
+            setTimeout(() => {
+                createToast.style.display = 'none';
+            }, 3000);
         })
         // const cartBtn = document.createElement('button')
         // cartBtn.setAttribute('id', 'cartBtn');
